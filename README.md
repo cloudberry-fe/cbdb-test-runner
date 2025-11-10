@@ -20,7 +20,7 @@ The Cloudberry Multi-Test Runner is a Python script designed to execute both SQL
 ### Installation of Python Dependencies
 
 ```bash
-pip install jinja2
+python3 -m pip install jinja2
 ```
 
 ## Project Structure
